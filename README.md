@@ -16,6 +16,8 @@ To use this script, follow the steps below:
 
 5. Go to any Notion page and the annoying payment message will be removed automatically.
 
+Alternatively you can install via Greasy Fork [here](https://greasyfork.org/en/scripts/476990-annoyingtion-remove-annoying-message-on-notion).
+
 ## Disclaimer
 
 This script is provided as-is and the author is not responsible for any issues that may arise from its usage. Use at your own risk.
